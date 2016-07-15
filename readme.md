@@ -1,6 +1,6 @@
 <img src="assets/icon.png" width="100">
 # Monstercat Connect (Deon) Desktop App
-## Powered by (BadKitty)["http://badkitty.co"]
+Powered by [BadKitty](http://badkitty.co)
 
 <img src="assets/screenshot.png" width="500">
 
@@ -18,9 +18,9 @@ The desktop app ads features like media hotkey support. In the future, it will a
 
 You can download the first build of the app here:
 
-* [OS X](https://github.com/joshbalfour/monstercat-connect-desktop-unofficial/releases/download/v0.1-alpha/OS.X.-.Unofficial.Monstercat.Connect.Desktop.dmg)
+* [OS X](https://github.com/DrakeWitt/monstercat-connect-desktop/releases/download/v1.0/Monstercat.Connect.Deon.-1.0.0.dmg)
 
-* [Windows](https://github.com/joshbalfour/monstercat-connect-desktop-unofficial/releases/download/v0.1-alpha/Windows.-.Unofficial.Monstercat.Connect.Desktop.Setup.exe)
+* Windows - Coming Soon
 
 * Linux - ~~Go compile it yourself, you're probably used to it anyway.~~ Binaries coming soon-ish.
 
@@ -34,7 +34,7 @@ You can download the first build of the app here:
 
 ## Ideas/Issues
 
-You can use [the github issue tracker](https://github.com/joshbalfour/monstercat-connect-desktop-unofficial/issues/new) to report bugs or suggest features.
+You can use [the github issue tracker](https://github.com/drakewitt/monstercat-connect-desktop/issues/new) to report bugs or suggest features.
 
 ## Contributing
 
@@ -45,8 +45,6 @@ Feel free to contribute to the project. Just make a pull request and document th
 * [Josh Balfour](https://github.com/joshbalfour/monstercat-connect-desktop-unofficial) for the original project.
 
 * /u/Smilesky for the app icon
-
-* [This tweet](https://twitter.com/TheBlenderman49/status/738794652845940736) for the dmg background.
 
 * Monstercat for the Connect Client
 
