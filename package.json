@@ -4,7 +4,6 @@
   "description": "",
   "main": "app/main.js",
   "scripts": {
-    "postinstall": "install-app-deps",
     "pack": "build --dir",
     "dist": "build"
   },
@@ -35,7 +34,7 @@
       ]
     },
     "win": {
-      "iconUrl": "(windows-only) https link to icon"
+      "setupIcon": "assets/win/icon.ico"
     }
   },
   "devDependencies": {
