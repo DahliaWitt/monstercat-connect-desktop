@@ -34,7 +34,8 @@
       ]
     },
     "win": {
-      "setupIcon": "assets/win/icon.ico"
+      "setupIcon": "assets/win/icon.ico",
+      "iconUrl": "assets/win/icon.ico"
     }
   },
   "devDependencies": {
