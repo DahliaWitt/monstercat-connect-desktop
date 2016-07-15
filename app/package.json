@@ -1,5 +1,10 @@
 {
-  "name": "Monstercat Connect (Deon)",
-  "version": "0.1.0",
+  "name": "monstercat-connect-deon",
+  "productName": "Monstercat Connect (Deon)",
+  "description": "Desktop Client for Monstercat Connect",
+  "homepage": "https://github.com/DrakeWitt/monstercat-connect-desktop",
+  "author": "Drake Witt <dwitt@dranweb.com>",
+  "license": "MIT",
+  "version": "1.0.0",
   "main": "main.js"
 }

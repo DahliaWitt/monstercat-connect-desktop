@@ -46,6 +46,8 @@ Feel free to contribute to the project. Just make a pull request and document th
 
 * /u/Smilesky for the app icon
 
+* [This tweet](https://twitter.com/TheBlenderman49/status/738794652845940736) for the dmg background.
+
 * Monstercat for the Connect Client
 
 * Electron for the native wrapper.
